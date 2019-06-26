@@ -1,5 +1,11 @@
 # Elastic Homebrew Tap
 
+## Current Version 6.7.2
+
+* ElasticSearch-oss
+* Kibana-oss
+* MetricBeat-oss
+
 This tap is for products in the Elastic stack.
 
 ## How do I install these formulae?
