@@ -1,7 +1,7 @@
 class ElasticsearchOss < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
-  url "https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-oss-6.7.2.tar.gz"
+  url "http://elk-stack.borec.cz/elasticsearch-oss-6.7.2.tar.gz"
   version "6.7.2"
   sha256 "c6b2cff132cc98771fc16b4beec290fc719ddbc67c01d924ebbeb422a603ca11"
   conflicts_with "elasticsearch"
