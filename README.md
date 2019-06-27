@@ -12,22 +12,22 @@ This tap is for products in the Elastic stack.
 
 Install the tap via:
 
-    brew tap elastic/tap
+    brew tap PeterSchmiedt/homebrew-skoda-elk-tap
 
 Then you can install individual products via:
 
-    brew install elastic/tap/elasticsearch-full
+    brew install peterschmiedt/skoda-elk-tap/elasticsearch-oss
 
 The following products are supported:
 
-* Elasticsearch `brew install elastic/tap/elasticsearch-full`
+* Elasticsearch `brew install peterschmiedt/skoda-elk-tap/elasticsearch-oss`
 * Logstash `brew install elastic/tap/logstash-full`
-* Kibana `brew install elastic/tap/kibana-full`
+* Kibana `brew install peterschmiedt/skoda-elk-tap/kibana-oss`
 * Beats
   * Auditbeat `brew install elastic/tap/auditbeat-full`
   * Filebeat `brew install elastic/tap/filebeat-full`
   * Heartbeat `brew install elastic/tap/heartbeat-full`
-  * Metricbeat `brew install elastic/tap/metricbeat-full`
+  * Metricbeat `brew install peterschmiedt/skoda-elk-tap/metricbeat-oss`
   * Packetbeat `brew install elastic/tap/packetbeat-full`
 * APM server `brew install elastic/tap/apm-server-full`
 

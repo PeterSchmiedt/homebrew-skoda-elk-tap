@@ -3,7 +3,7 @@ class ElasticsearchOss < Formula
   homepage "https://www.elastic.co/products/elasticsearch"
   url "http://elk-stack.borec.cz/elasticsearch-oss-6.7.2.tar.gz"
   version "6.7.2"
-  sha256 "c6b2cff132cc98771fc16b4beec290fc719ddbc67c01d924ebbeb422a603ca11"
+  sha256 "af47ab5dd0a647d9b9982835c5d80484042854f6ea3f470b1219102bbf874b69"
   conflicts_with "elasticsearch"
   conflicts_with "elasticsearch-full"
 
